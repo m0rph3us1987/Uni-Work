@@ -1,0 +1,13 @@
+﻿Build started 30/01/2017 13:27:13.
+     1>Project "E:\Console Development\Lecture 2 Exercise 03\Lecture 2 Exercise 03\Lecture 2 Exercise 03.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         main.cpp
+         orbis-clang.exe -o ORBIS_Debug\main.o -c -MD -fdiagnostics-format=msvc -I"C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\host_tools\lib\clang\include" -I"C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\target\include" -I"C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\target\include_common" -D_DEBUG -g -Wall -fno-caret-diagnostics -O0 "E:\Console Development\Lecture 2 Exercise 03\Lecture 2 Exercise 03\main.cpp"
+       Link:
+         C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\host_tools\bin\orbis-clang.exe -o "E:\Console Development\Lecture 2 Exercise 03\ORBIS_Debug\Lecture 2 Exercise 03.elf" -Wl,--start-group ORBIS_Debug\main.o "-lSceCommonDialog_stub_weak" "-lSceMsgDialog_stub_weak" "-lSceSysmodule_stub_weak" "-lSceDbgEnC" -Wl,--end-group
+         Lecture 2 Exercise 03.vcxproj -> E:\Console Development\Lecture 2 Exercise 03\ORBIS_Debug\Lecture 2 Exercise 03.elf
+     1>Done Building Project "E:\Console Development\Lecture 2 Exercise 03\Lecture 2 Exercise 03\Lecture 2 Exercise 03.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.45
