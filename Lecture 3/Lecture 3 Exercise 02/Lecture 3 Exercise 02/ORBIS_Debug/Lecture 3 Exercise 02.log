@@ -1,0 +1,15 @@
+﻿Build started 03/02/2017 12:05:00.
+     1>Project "U:\Console Development\Lecture 3 Exercise 02\Lecture 3 Exercise 02\Lecture 3 Exercise 02.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         renderer.cpp
+         orbis-clang.exe -o ORBIS_Debug\renderer.o -c -MD -fdiagnostics-format=msvc -I"C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\host_tools\lib\clang\include" -I"C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\target\include" -I"C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\target\include_common" -D_DEBUG -g -Wall -fno-caret-diagnostics -O0 "C:\Users\2pryoc45\Downloads\Tutorial 03 - Resources (1)\renderer.cpp"
+         main.cpp
+         orbis-clang.exe -o ORBIS_Debug\main.o -c -MD -fdiagnostics-format=msvc -I"C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\host_tools\lib\clang\include" -I"C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\target\include" -I"C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\target\include_common" -D_DEBUG -g -Wall -fno-caret-diagnostics -O0 "U:\Console Development\Lecture 3 Exercise 02\Lecture 3 Exercise 02\main.cpp"
+       Link:
+         C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\host_tools\bin\orbis-clang.exe -o "U:\Console Development\Lecture 3 Exercise 02\ORBIS_Debug\Lecture 3 Exercise 02.elf" -Wl,--start-group ORBIS_Debug\renderer.o ORBIS_Debug\main.o "-lSceGpuAddress" "-lSceGnmx" "-lSceGnm" "-lSceGnmDriver_stub_weak" "-lSceVideoOut_stub_weak" "-lSceFont_stub_weak" "-lSceSysmodule_stub_weak" "-lSceCes" "-lSceDbgEnC" -Wl,--end-group
+         Lecture 3 Exercise 02.vcxproj -> U:\Console Development\Lecture 3 Exercise 02\ORBIS_Debug\Lecture 3 Exercise 02.elf
+     1>Done Building Project "U:\Console Development\Lecture 3 Exercise 02\Lecture 3 Exercise 02\Lecture 3 Exercise 02.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:10.28
