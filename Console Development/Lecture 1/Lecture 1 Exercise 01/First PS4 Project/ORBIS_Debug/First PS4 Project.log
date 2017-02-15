@@ -1,0 +1,13 @@
+﻿Build started 26/01/2017 10:17:30.
+     1>Project "U:\First PS4 Project\First PS4 Project\First PS4 Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         main.cpp
+         orbis-clang.exe -o ORBIS_Debug\main.o -c -MD -fdiagnostics-format=msvc -I"C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\host_tools\lib\clang\include" -I"C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\target\include" -I"C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\target\include_common" -D_DEBUG -g -Wall -fno-caret-diagnostics -O0 "U:\First PS4 Project\First PS4 Project\main.cpp"
+       Link:
+         C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\host_tools\bin\orbis-clang.exe -o "U:\First PS4 Project\ORBIS_Debug\First PS4 Project.elf" -Wl,--start-group ORBIS_Debug\main.o "-lSceDbgEnC" -Wl,--end-group
+         First PS4 Project.vcxproj -> U:\First PS4 Project\ORBIS_Debug\First PS4 Project.elf
+     1>Done Building Project "U:\First PS4 Project\First PS4 Project\First PS4 Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.29
