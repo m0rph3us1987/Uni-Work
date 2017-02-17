@@ -1,0 +1,15 @@
+﻿Build started 17/02/2017 12:19:23.
+     1>Project "E:\Console Development\Lecture 8\Lecture 8 Exercise 01\Lecture 8 Exercise 01\Lecture 8 Exercise 01.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         main.cpp
+         orbis-clang.exe -o ORBIS_Debug\main.o -c -MD -fdiagnostics-format=msvc -I"C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\host_tools\lib\clang\include" -I"C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\target\include" -I"C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\target\include_common" -D_DEBUG -g -Wall -fno-caret-diagnostics -O0 "E:\Console Development\Lecture 8\Lecture 8 Exercise 01\Lecture 8 Exercise 01\main.cpp"
+     1>E:\Console Development\Lecture 8\Lecture 8 Exercise 01\Lecture 8 Exercise 01\main.cpp(29,10): warning : unused variable 'val' [-Wunused-variable]
+     1>E:\Console Development\Lecture 8\Lecture 8 Exercise 01\Lecture 8 Exercise 01\main.cpp(37,10): warning : unused variable 'val2' [-Wunused-variable]
+       Link:
+         C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\host_tools\bin\orbis-clang.exe -o "E:\Console Development\Lecture 8\Lecture 8 Exercise 01\ORBIS_Debug\Lecture 8 Exercise 01.elf" -Wl,--start-group ORBIS_Debug\main.o "-lSceDbgEnC" -Wl,--end-group
+         Lecture 8 Exercise 01.vcxproj -> E:\Console Development\Lecture 8\Lecture 8 Exercise 01\ORBIS_Debug\Lecture 8 Exercise 01.elf
+     1>Done Building Project "E:\Console Development\Lecture 8\Lecture 8 Exercise 01\Lecture 8 Exercise 01\Lecture 8 Exercise 01.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.71
