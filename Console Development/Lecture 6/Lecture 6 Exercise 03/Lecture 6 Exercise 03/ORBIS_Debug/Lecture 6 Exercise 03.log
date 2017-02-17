@@ -1,0 +1,10 @@
+﻿Build started 17/02/2017 11:28:19.
+     1>Project "E:\Console Development\Lecture 6\Lecture 6 Exercise 03\Lecture 6 Exercise 03\Lecture 6 Exercise 03.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\host_tools\bin\orbis-clang.exe -o "E:\Console Development\Lecture 6\Lecture 6 Exercise 03\ORBIS_Debug\Lecture 6 Exercise 03.elf" -Wl,--start-group ORBIS_Debug\main.o ORBIS_Debug\renderer.o "-lSceGpuAddress" "-lSceGnmx" "-lSceGnm" "-lSceGnmDriver_stub_weak" "-lSceVideoOut_stub_weak" "-lSceFont_stub_weak" "-lSceSysmodule_stub_weak" "-lSceCes" "-lSceTextureTool" "-lSceJpegDec_stub_weak" "-lSceJpegEnc_stub_weak" "-lScePngEnc_stub_weak" "-lScePngDec_stub_weak" "-lScePosix_stub_weak" "-lSceDbgEnC" -Wl,--end-group
+         Lecture 6 Exercise 03.vcxproj -> E:\Console Development\Lecture 6\Lecture 6 Exercise 03\ORBIS_Debug\Lecture 6 Exercise 03.elf
+     1>Done Building Project "E:\Console Development\Lecture 6\Lecture 6 Exercise 03\Lecture 6 Exercise 03\Lecture 6 Exercise 03.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.70

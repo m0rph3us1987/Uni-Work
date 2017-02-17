@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lecture 6 Exercise 03", "Lecture 6 Exercise 03\Lecture 6 Exercise 03.vcxproj", "{ED7EB1AB-8E2B-4D2A-B217-C942960162E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ORBIS = Debug|ORBIS
+		Release|ORBIS = Release|ORBIS
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED7EB1AB-8E2B-4D2A-B217-C942960162E7}.Debug|ORBIS.ActiveCfg = Debug|ORBIS
+		{ED7EB1AB-8E2B-4D2A-B217-C942960162E7}.Debug|ORBIS.Build.0 = Debug|ORBIS
+		{ED7EB1AB-8E2B-4D2A-B217-C942960162E7}.Release|ORBIS.ActiveCfg = Release|ORBIS
+		{ED7EB1AB-8E2B-4D2A-B217-C942960162E7}.Release|ORBIS.Build.0 = Release|ORBIS
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
