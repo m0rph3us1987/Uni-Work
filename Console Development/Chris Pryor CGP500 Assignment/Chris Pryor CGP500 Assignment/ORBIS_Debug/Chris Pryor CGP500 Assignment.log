@@ -1,0 +1,13 @@
+﻿Build started 05/04/2017 17:12:20.
+     1>Project "U:\Chris Pryor CGP500 Assignment\Chris Pryor CGP500 Assignment\Chris Pryor CGP500 Assignment.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         main.cpp
+         orbis-clang.exe -o ORBIS_Debug\main.o -c -MD -fdiagnostics-format=msvc -I"C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\host_tools\lib\clang\include" -I"C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\target\include" -I"C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\target\include_common" -D_DEBUG -g -Wall -fno-caret-diagnostics -O0 "U:\Chris Pryor CGP500 Assignment\Chris Pryor CGP500 Assignment\main.cpp"
+       Link:
+         C:\Program Files (x86)\SCE\ORBIS SDKs\2.500\host_tools\bin\orbis-clang.exe -o "U:\Chris Pryor CGP500 Assignment\ORBIS_Debug\Chris Pryor CGP500 Assignment.elf" -Wl,--start-group ORBIS_Debug\controller.o ORBIS_Debug\font.o ORBIS_Debug\game.o ORBIS_Debug\main.o ORBIS_Debug\renderer.o "-lSceGpuAddress" "-lSceGnmx" "-lSceGnm" "-lSceGnmDriver_stub_weak" "-lSceVideoOut_stub_weak" "-lSceFont_stub_weak" "-lSceSysmodule_stub_weak" "-lSceCes" "-lSceUserService_stub_weak" "-lScePad_stub_weak" "-lSceFontFt_stub_weak" "-lSceDbgEnC" -Wl,--end-group
+         Chris Pryor CGP500 Assignment.vcxproj -> U:\Chris Pryor CGP500 Assignment\ORBIS_Debug\Chris Pryor CGP500 Assignment.elf
+     1>Done Building Project "U:\Chris Pryor CGP500 Assignment\Chris Pryor CGP500 Assignment\Chris Pryor CGP500 Assignment.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.82
